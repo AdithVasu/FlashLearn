@@ -1,6 +1,4 @@
-FlashLearn: Your AI-Powered Academic Companion
-
-Like a personal teaching assistant, this app seamlessly transforms educational YouTube videos into organized, customizable, and instantly accessible study notes, helping you learn more efficiently.
+**FlashLearn**: Your AI-Powered Academic Companion
 
 **DISCLAIMER**
 This project was meant for pure educational purposes only (I wanted to experiment with Deepgram and working with LLMs). 
